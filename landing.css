@@ -1,0 +1,527 @@
+
+
+.partie1{
+    display: flex;
+    flex-direction: column;
+    width: 1490px;
+}
+
+.top{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    text-align: center;
+    padding-left: 400px;
+    padding-right: 300px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    height: 90px;
+}
+
+.top p{
+    font-weight: bold;
+    font-size: 15px;
+    font-style: normal;
+}
+
+.bottom{
+    background-image:url(eau22.webp) ;
+    background-size: 1490px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    height: 525px;
+    text-align: center;
+    width: 1490px;
+    margin-right: 0px;
+}   
+
+.bottom1{
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+}
+
+  img  {
+    border-radius: 15px;
+    height: 100px;
+    width: 150px;
+}
+
+.forma p{
+     color: white;
+     background-color: rgb(61, 54, 54);
+     height: 80px;
+     line-height: 80px;
+     font-size: 25px;
+     width: 300px;
+     margin-left: 600px;
+     align-items: center;
+     justify-content: center;
+}
+
+.dernier p{
+     color: white;
+     font-weight: bold;
+}
+
+/*.partie1{
+    display: flex;
+    flex-direction: column;
+}*/
+
+.partie2{
+    width: 1490px;
+}
+
+.logo{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    margin-left: 250px;
+    height: 300px;
+    margin-top: 200px;
+}
+
+.logo p{
+    text-align: center;
+}
+
+.logo h2{
+    text-align: center;
+}
+
+.logo img{
+    margin-left: 30px;
+    border-radius: 50%;
+    background-color: white;
+    border: 3px solid mediumseagreen;
+}
+
+.p1{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    text-align: center;
+    margin-left: 400px;
+}
+
+.bakeli1{
+    text-align: center;
+    background-color: rgb(179, 177, 177);
+    height: 200px;
+    padding-top: 100px;
+}
+
+.partie3{
+    display: block;
+    flex-direction: column;
+    width: 1490px;
+}
+
+.ligne1{
+    display: flex;
+    flex-direction: row;
+}
+
+.ligne2{
+    display: flex;
+    flex-direction: row;
+}
+.word-press {
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    background-color: rgb(124, 200, 175);
+}
+
+.word-press img{
+    margin-top: 100px;
+    background-color: rgb(124, 200, 175);
+}
+
+.htmlcss {
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    background-color: rgb(124, 173, 200);
+}
+
+.htmlcss img{
+    margin-top: 100px;
+    background-color: rgb(124, 173, 200);
+}
+
+.conva {
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    background-color: rgb(103, 91, 66);
+}
+
+.conva img{
+    margin-top: 100px;
+    background-color: rgb(103, 91, 66);
+}
+
+.jz {
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    background-color: rgb(101, 180, 211);
+}
+
+.jz img{
+    margin-top: 100px;
+    background-color: rgb(101, 180, 211);
+}
+
+.java {
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    background-color: rgb(66, 60, 32);
+}
+
+.java img{
+    margin-top: 100px;
+}
+
+.inscape {
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    background-color: rgb(23, 125, 137);
+}
+
+.inscape img{
+    margin-top: 100px;
+}
+
+.ae {
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    background-color: rgb(32, 65, 66);
+}
+
+.ae img{
+    margin-top: 100px;
+}
+
+.python {
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    background-color: rgb(199, 190, 149);
+}
+
+.python img{
+    margin-top: 100px;
+}
+
+.partie4{
+    height: 500px;
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    width: 1490px;
+}
+
+.part1 h1, .part1 p{
+    text-align: center;
+    font-size: 20px;
+}
+
+.part1 h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.part2{
+    display: flex;
+    flex-direction: row;
+    gap: 300px;
+    padding-left: 200px;
+}
+
+.part2left{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.part2right{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.part2left1{
+    display: flex;
+    flex-direction: column;
+}
+
+.part2left1 p{
+    display: flex;
+    flex-direction: row;
+    gap: 305px;
+}
+
+.part2left2{
+    display: flex;
+    flex-direction: column;
+}
+
+.part2left2 p{
+    display: flex;
+    flex-direction: row;
+    gap: 250px;
+}
+.part2right1{
+    display: flex;
+    flex-direction: column;
+}
+
+.part2right1 p{
+    display: flex;
+    flex-direction: row;
+    gap: 290px;
+}
+.part2right2{
+    display: flex;
+    flex-direction: column
+}
+
+
+
+/*.part2left1::before{
+    border: 10px solid mediumseagreen ;
+}*/
+.bar{
+    width: 400px;
+    height: 15px;
+    border: 1px solid rgb(80, 136, 105);
+    border-radius: 20px;
+}
+.progress1{
+    background-color: rgb(80, 136, 105);
+    width: 100%;
+    height: 15px;
+    border-radius: 20px;
+}
+
+.progress2{
+    background-color: rgb(80, 136, 105);
+    width: 80%;
+    height: 15px;
+    border-radius: 20px;
+}
+
+.progress3{
+    background-color: rgb(80, 136, 105);
+    width: 90%;
+    height: 15px;
+    border-radius: 20px;
+}
+
+.progress4{
+    background-color: rgb(80, 136, 105);
+    width: 70%;
+    height: 15px;
+    border-radius: 20px;
+}
+
+.icone1{
+    height: 300px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    margin-left: 30px;
+    
+}
+
+
+.icone2{
+    height: 300px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    margin-left: 30px;
+}
+
+.icone3{
+    height: 300px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    margin-left: 30px;
+}
+
+.icone4{
+    height: 300px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    margin-left: 30px;
+}
+
+.bas .icone1 img{
+    width: 250px;
+    height:500px ;
+    background-color: rgb(46, 22, 5);
+    border: 1px solid rgb(46, 22, 5);
+    border-radius: 0px;
+
+}
+
+
+.icone1 p{
+    background-color: white;
+    border: 1px solid white;
+    height: 100px;
+    margin-top: 0px;
+    text-align: center;
+    padding-top: 40px;
+    width: 250px;
+}
+
+.bas{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    padding-right: 0px;
+}
+
+.bas .icone2 img{
+    width: 250px;
+    height:200px ;
+    background-color: rgb(200, 113, 113);
+    border: 1px solid rgb(200, 113, 113);
+    border-radius: 0px;
+    margin-left:80px;
+
+}
+
+.icone2 p{
+    background-color: white;
+    border: 1px solid white;
+    height: 100px;
+    margin-top: 0px;
+    text-align: center;
+    padding-top: 40px;
+    width: 250px;
+    margin-left: 80px;
+}
+
+.bas .icone3 img{
+    width: 250px;
+    height:200px ;
+    background-color: rgb(200, 113, 113);
+    border: 1px solid rgb(200, 113, 113);
+    border-radius: 0px;
+    margin-left: 150px;
+    
+
+}
+
+.icone3 p{
+    background-color: white;
+    border: 1px solid white;
+    height: 110px;
+    width: 250px;
+    margin-top: 0px;
+    text-align: center;
+    padding-top: 40px;
+    margin-left: 150px;
+}
+
+.bas .icone4 img{
+    width: 250px;
+    height:500px ;
+    background-color: rgb(120, 90, 39);
+    border: 1px solid rgb(120, 90, 39);
+    border-radius: 0px;
+    margin-left: 200px;
+
+}
+
+
+
+.icone4 p{
+    background-color: white;
+    border: 1px solid white;
+    height: 100px;
+    width: 250px;
+    margin-top: 0px;
+    text-align: center;
+    padding-top: 40px;
+    margin-left: 200px;
+}
+
+P span{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.partie5{
+    background-color:  rgb(117, 196, 170);
+    height: 700px;
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 200px;
+    width: 1490px;
+}
+
+.haut{
+    text-align: center;
+    color: bisque;
+}
+
+.partie6{
+    width: 1490px;
+}
+
+.sikaw img{
+    margin-left: 700px;
+}
+
+.sikaw p, .sikaw h3{
+    text-align: center;
+}
+footer{
+    background-color: rgb(230, 223, 223);
+    padding: 50px;
+}
+
+footer h2{
+    text-align: center;
+}
+
+.foot{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    margin-left: 300px;
+    font-size: 20px;
+}
+
+.pied{
+    background-color: rgb(230, 223, 223);
+    padding-bottom: 100px;
+}
+
+.pied p{
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+body{
+    width: 1300px;
+}
